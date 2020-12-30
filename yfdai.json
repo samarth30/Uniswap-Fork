@@ -24,13 +24,6 @@
       "name": "youtube",
       "symbol": "youtube",
       "decimals": 18
-    },
-    {
-      "chainId": 1,
-      "address": "0x208d174775dc39fe18b1b374972f77ddec6c0f73",
-      "name": "uUSDrBTC Synthetic Token Expiring 1 October 2020",
-      "symbol": "uUSDrBTC-OCT",
-      "decimals": 18
     }
   ],
   "version": {
