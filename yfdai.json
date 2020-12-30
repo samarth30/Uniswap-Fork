@@ -1,0 +1,41 @@
+{
+  "name": "UMA",
+  "logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+  "keywords": ["defi", "uma", "yield"],
+  "timestamp": "2020-08-25T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 42,
+      "address": "0x45109BC7aAF29770aACa425FF7A6eFB6471b341d",
+      "name": "Value Network Token",
+      "symbol": "VNTW",
+      "decimals": 18
+    },
+    {
+      "chainId": 42,
+      "address": "0x54AC5F96F589b6Dc14c106aa81Ad485Ed5210088",
+      "name": "tiktok",
+      "symbol": "tiktok",
+      "decimals": 18
+    },
+    {
+      "chainId": 42,
+      "address": "0x87dF76dFBb7E448539e3C07BBAD93bB1c28594ee",
+      "name": "youtube",
+      "symbol": "youtube",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x208d174775dc39fe18b1b374972f77ddec6c0f73",
+      "name": "uUSDrBTC Synthetic Token Expiring 1 October 2020",
+      "symbol": "uUSDrBTC-OCT",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
